@@ -48,6 +48,9 @@ tl;dr: Women Who Go - Curitiba Chapter
 
 ### Projetos
 
+### Configuração
+- [gonfig](https://github.com/luizvnasc/gonfig) - Carrega configurações a partir de arquivos ou de variáveis de ambiente.
+
 #### Testes
 - [ZTests](https://github.com/alexrios/ztests) - Facilitador testes com containers docker.
 
