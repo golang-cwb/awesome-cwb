@@ -46,10 +46,7 @@ tl;dr: Women Who Go - Curitiba Chapter
 
 - [LinkedIn](https://www.linkedin.com/company/40847620/)
 
-- [Telegram](http://bit.ly/wwgtelegram)
-
 - [Site](https://womenwhogocwb.github.io)
-
 
 ### Projetos
 
