@@ -10,6 +10,8 @@ Listagem de iniciativas de Golang na cidade Curitiba.
 - [Projetos](https://github.com/golang-cwb/awesome-cwb#projetos)
   - [Configuração](https://github.com/golang-cwb/awesome-cwb#configura%C3%A7%C3%A3o)
   - [Testes](https://github.com/golang-cwb/awesome-cwb#testes)
+  - [Bootstrapper](https://github.com/golang-cwb/awesome-cwb#bootsrtapper)
+  - [Simuladores](https://github.com/golang-cwb/awesome-cwb#simuladores)
   - [Temas para Hugo](https://github.com/golang-cwb/awesome-cwb#temas-para-hugo)
 - [Tutoriais](https://github.com/golang-cwb/awesome-cwb#tutoriais)
   - [Oficina Hugo](https://github.com/golang-cwb/awesome-cwb#oficina-hugo)
@@ -55,6 +57,12 @@ tl;dr: Women Who Go - Curitiba Chapter
 
 #### Testes
 - [ZTests](https://github.com/alexrios/ztests) - Facilitador testes com containers docker.
+
+#### Bootstrapper
+- [Utevolux](https://github.com/alexrios/utevolux) - Criar projetos do zero baseado em templates de arquiteturas e frameworks.
+
+#### Simuladores
+- [endpoints](https://github.com/alexrios/endpoints) - Simulador de endpoints HTTP.
 
 #### Temas para Hugo
 - [Coder](https://github.com/luizdepra/hugo-coder) - Tema minimalista para blogs
